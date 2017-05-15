@@ -1,1 +1,4 @@
-./data/*
+data/pics/*
+**/.DS_Store
+data/fer2013/*
+.ipynb_checkpoints/
